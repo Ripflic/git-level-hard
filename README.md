@@ -22,13 +22,13 @@
 
 | Список скриптов       |                              |
 |-----------------------|------------------------------|
-| update system         | <- Обновление системы           |
-| delete programm       | <- Удаление программ            |
+| update system         | Обновление системы           |
+| delete programm       | Удаление программ            |
 | install code editor   | Текстовые редакторы          |
 | install design        | Графические редакторы        |
 | install appimage      | Портативные проги            |
 | install video editor  | Видео редакторы              |
-| install jack          | Редактор карт для hl1, CS1.6 |
+| install jack          | Редактор карт для hl1, cs1.6 |
 
 #### Get the source
 
