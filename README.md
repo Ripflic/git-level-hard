@@ -5,6 +5,7 @@
 > Данный проект развивается медленно.
 >
 >  -- Обнавление происходит 1 раз в год
+> 
 >  -- Некоторые скрипты могут работать нестабильно
 >
 >  -- Если скрипт не работает, нужно менять ссылки
@@ -12,7 +13,7 @@
 
 #### What is it?
 
-Notepadqq is a text editor designed by developers, for developers. 
+Редактировать можно в любом [текстовый редактор], я использую Notepadqq или Kate.
 
 # <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/img_01.png" alt="Script" width="757" height="564" />
 
