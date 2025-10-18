@@ -4,11 +4,6 @@
 > 
 >  -- Daniele
 
-//### Links
-//
-//* [What is it?](#what-is-it)
-//* [Build it yourself](#build-it-yourself)
-//* [Download it](#distribution-packages)
 
 #### What is it?
 
