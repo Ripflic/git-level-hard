@@ -30,8 +30,12 @@
 | install jack          | Редактор карт для hl1, cs1.6 |
 
 #### Get the source
+
 Клонировать с помощью SSH
+
     $ git clone git@gitlab.com:An.On/Install_script.git
- Клонировать с помощью HTTPS 
+    
+Клонировать с помощью HTTPS 
+
     $ git clone https://gitlab.com/An.On/Install_script.git
 
