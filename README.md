@@ -1,35 +1,35 @@
-# <img src="https://user-images.githubusercontent.com/4319621/36906314-e3f99680-1e35-11e8-90fd-f959c9641f36.png" alt="Script" width="32" height="32" /> Install Script for LINUX
+# <img src="https://gitlab.com/An.On/Install_script/-/blob/main/img/shell-script.png" alt="Script" width="32" height="32" /> Install Script for LINUX
 
 > This project is not actively maintained anymore. New maintainers are welcome.
 > 
 >  -- Daniele
 
-### Links
-
-* [What is it?](#what-is-it)
-* [Build it yourself](#build-it-yourself)
-* [Download it](#distribution-packages)
+//### Links
+//
+//* [What is it?](#what-is-it)
+//* [Build it yourself](#build-it-yourself)
+//* [Download it](#distribution-packages)
 
 #### What is it?
 
 Notepadqq is a text editor designed by developers, for developers. 
 
-![screenshot_20180302_163505](https://notepadqq.com/s/images/snapshot1.png)
+![screenshot_20180302_163505](https://gitlab.com/An.On/Install_script/-/blob/main/img/img_01.png)
 
 Please visit our [Wiki](https://github.com/notepadqq/notepadqq/wiki) for more screenshots and details.
 
-Build it yourself
+--- Добавляйте и меняйте ---
 -----
 
-| Build dependencies    | Dependencies      |
-|-----------------------|-------------------|
-| Qt 5.6 or higher      | Qt 5.6 or higher  |
-| qtwebengine5-dev      | qtwebengine5      |
-| libqt5websockets5-dev | libqt5websockets5 |
-| libqt5svg5-dev        | libqt5svg5        |
-| qttools5-dev-tools    | coreutils         |
-| libuchardet-dev       | libuchardet       |
-| pkg-config            |                   |
+| Список скриптов       |
+|-----------------------|
+| update system         |
+| delete programm       |
+| install code editor   |
+| install design        |
+| install appimage      |
+| install video editor  |
+| install jack          |
 
 #### Get the source
 
