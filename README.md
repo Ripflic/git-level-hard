@@ -1,6 +1,6 @@
 # <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/shell-script.png" alt="Script" width="64" height="64" /> Install Script for LINUX
-
-
+<br>
+<br>
 > Данный проект развивается медленно.
 >
 >  -- Обнавление происходит 1 раз в год
@@ -8,9 +8,8 @@
 >  -- Некоторые скрипты могут работать нестабильно
 >
 >  -- Если скрипт не работает, нужно менять ссылки
-
-
-
+<br>
+<br>
 #### What is it?
 
 Notepadqq is a text editor designed by developers, for developers. 
