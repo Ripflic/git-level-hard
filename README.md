@@ -1,6 +1,6 @@
 # <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/shell-script.png" alt="Script" width="64" height="64" /> Install Script for LINUX
-<br>
-<br>
+#<br>
+#<br>
 > Данный проект развивается медленно.
 >
 >  -- Обнавление происходит 1 раз в год
