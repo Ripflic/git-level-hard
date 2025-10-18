@@ -1,15 +1,16 @@
-# <img src="https://gitlab.com/An.On/Install_script/-/blob/main/img/shell-script.png" alt="Script" width="64" height="64" /> Install Script for LINUX
+# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/shell-script.png" alt="Script" width="64" height="64" /> Install Script for LINUX
 
-> This project is not actively maintained anymore. New maintainers are welcome.
-> 
->  -- Daniele
+> Данный проект развивается медленно.
+>  -- Обнавление происходит 1 раз в год
+>  -- Некоторые скрипты могут работать нестабильно
+>  -- Если скрипт не работает, нужно менять ссылки
 
 
 #### What is it?
 
 Notepadqq is a text editor designed by developers, for developers. 
 
-# <img src="https://gitlab.com/An.On/Install_script/-/blob/main/img/img_01.png" alt="Script" width="757" height="564" />
+# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/img_01.png" alt="Script" width="757" height="564" />
 
 
 
@@ -31,16 +32,6 @@ Notepadqq is a text editor designed by developers, for developers.
     $ git clone --recursive https://github.com/notepadqq/notepadqq.git
     $ cd notepadqq
 
-#### Build
+#### 
 
-    notepadqq$ ./configure --prefix /usr
-    notepadqq$ make
-
-If you encounter errors make sure to have the necessary libraries installed. For Ubuntu you can do that using apt-get:
-
-    sudo apt-get install qttools5-dev-tools qtwebengine5-dev libqt5websockets5-dev libqt5svg5 libqt5svg5-dev libuchardet-dev pkg-config
-
-For CentOS:
-
-    sudo yum install -y qt5-qtbase-devel qt5-qttools-devel qt5-qtwebengine-devel qt5-qtwebsockets-devel qt5-qtsvg-devel uchardet qt5-qtwebchannel-devel pkgconfig
-
+Notepadqq is a text editor designed by developers, for developers. 
