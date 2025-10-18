@@ -20,15 +20,15 @@
 Добавляйте и меняйте на свои
 -----
 
-| Список скриптов       |
-|-----------------------|
-| update system         |
-| delete programm       |
-| install code editor   |
-| install design        |
-| install appimage      |
-| install video editor  |
-| install jack          |
+| Список скриптов       |                              |
+|-----------------------|------------------------------|
+| update system         | <- Обновление системы           |
+| delete programm       | <- Удаление программ            |
+| install code editor   | Текстовые редакторы          |
+| install design        | Графические редакторы        |
+| install appimage      | Портативные проги            |
+| install video editor  | Видео редакторы              |
+| install jack          | Редактор карт для hl1, CS1.6 |
 
 #### Get the source
 
