@@ -1,6 +1,5 @@
 # <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/shell-script.png" alt="Script" width="64" height="64" /> Install Script for LINUX
 
-#### Ver 01
 
 > Данный проект развивается медленно.
 >
@@ -11,7 +10,7 @@
 >  -- Если скрипт не работает, нужно менять ссылки
 
 
-#### What is it?
+#### Ver 01
 
 Редактировать можно в любом [текстовый редактор], я использую Notepadqq или Kate.
 
