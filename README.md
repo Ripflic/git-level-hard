@@ -1,4 +1,4 @@
-# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/shell-script.png" alt="Script" width="32" height="32" /> Install Script for LINUX
+# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/shell-script.png" alt="Script" width="64" height="64" /> Install Script for LINUX
 
 > This project is not actively maintained anymore. New maintainers are welcome.
 > 
@@ -9,7 +9,7 @@
 
 Notepadqq is a text editor designed by developers, for developers. 
 
-![screenshot_20180302_163505](https://github.com/Ripflic/ripflic.github.io/blob/master/img/img_01.png)
+# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/img_01.png" alt="Script" width="757" height="462" />
 
 Please visit our [Wiki](https://github.com/notepadqq/notepadqq/wiki) for more screenshots and details.
 
