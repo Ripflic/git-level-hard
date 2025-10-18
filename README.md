@@ -9,7 +9,7 @@
 
 Notepadqq is a text editor designed by developers, for developers. 
 
-# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/img_01.png" alt="Script" width="757" height="462" />
+# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/img_01.png" alt="Script" width="757" height="562" />
 
 Please visit our [Wiki](https://github.com/notepadqq/notepadqq/wiki) for more screenshots and details.
 
