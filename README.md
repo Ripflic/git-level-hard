@@ -1,4 +1,4 @@
-# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/bash-script.png" alt="Script" width="159" height="256" />
+# <img src="https://github.com/Ripflic/ripflic.github.io/blob/master/img/bash-script.png" alt="Script" width="1248" height="159" />
 
 
 > Данный проект развивается медленно.
